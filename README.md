@@ -1,2 +1,5 @@
 # mbed-Arduino
-mbed with Arduino IDE to provide offline compiling.
+
+Trying to add support for compiling mbed projects using Arduino IDE to provide offline compiling.
+
+Work in progress, very early stage.
